@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516455497 source:c:\users\fodor\desktop\tudorita's codes\tudorita\olimpiada2\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+
