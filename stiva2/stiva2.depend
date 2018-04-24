@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524602959 source:c:\users\fodor\desktop\tudorita's codes\tudorita\stiva2\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
