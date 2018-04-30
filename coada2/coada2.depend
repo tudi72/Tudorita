@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525090118 source:c:\users\fodor\desktop\tudorita's codes\tudorita\coada2\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
