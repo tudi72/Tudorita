@@ -1,0 +1,7 @@
+C:\Users\fodor\source\repos\pregatire test\pregatire test\bin\Debug\pregatire test.exe.config
+C:\Users\fodor\source\repos\pregatire test\pregatire test\bin\Debug\pregatire test.exe
+C:\Users\fodor\source\repos\pregatire test\pregatire test\bin\Debug\pregatire test.pdb
+C:\Users\fodor\source\repos\pregatire test\pregatire test\obj\Debug\pregatire test.csprojAssemblyReference.cache
+C:\Users\fodor\source\repos\pregatire test\pregatire test\obj\Debug\pregatire test.csproj.CoreCompileInputs.cache
+C:\Users\fodor\source\repos\pregatire test\pregatire test\obj\Debug\pregatire test.exe
+C:\Users\fodor\source\repos\pregatire test\pregatire test\obj\Debug\pregatire test.pdb
